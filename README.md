@@ -1,5 +1,7 @@
 # TUC
 
+![Bus](http://i.imgur.com/r5xuL7x.png)
+
 [![NPM](https://nodei.co/npm/tuc.png)](https://nodei.co/npm/tuc/)
 
 # Installation
