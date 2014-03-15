@@ -30,5 +30,9 @@
 
     C$ 30.00
     Cuenta limitada (sin movil)
+
+# Contributors
+
+* [hosmelq](https://github.com/hosmelq)
     
 This is a unoficial client. For more info visit [https://mpeso.net/](https://mpeso.net/)
