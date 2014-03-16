@@ -34,5 +34,6 @@
 # Contributors
 
 * [hosmelq](https://github.com/hosmelq)
+* [BruceLampson](https://github.com/BruceLampson)
     
 This is a unoficial client. For more info visit [https://mpeso.net/](https://mpeso.net/)
