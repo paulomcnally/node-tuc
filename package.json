@@ -1,9 +1,27 @@
 {
   "name": "tuc",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "TUC Client for Node.js",
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "keywords": [
+    "tuc",
+    "mpeso",
+    "saldo"
+  ],
+  "directories": {
+    "lib": "./lib/tuc"
+  },
+  "main": "./index.js",
   "dependencies": {
     "request": "~2.34.0",
     "string": "~1.8.0"
+  },
+  "bugs": {
+    "url": "https://github.com/paulomcnally/node-tuc/issues/new",
+    "email": "paulomcnally@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulomcnally/node-tuc.git"
   }
 }
