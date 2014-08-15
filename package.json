@@ -1,6 +1,6 @@
 {
   "name": "tuc",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "TUC Client for Node.js",
   "author": "Paulo McNally <paulomcnally@gmail.com>",
   "keywords": [
