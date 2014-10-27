@@ -28,7 +28,7 @@
 
 # Responses
 
-    C$ 30.00
+    30.00
     Cuenta limitada (sin movil)
 
 # Contributors
