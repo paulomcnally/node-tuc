@@ -3,6 +3,16 @@
   "version": "0.0.11",
   "description": "TUC Client for Node.js",
   "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "contributors": [
+    {
+      "name" : "Hosmel Quintana",
+      "email" : "hosmelq@gmail.com"
+    },
+    {
+      "name" : "Oscar Cortez",
+      "email" : "om.cortez.2010@gmail.com"
+    }
+  ],
   "keywords": [
     "tuc",
     "mpeso",
@@ -17,11 +27,11 @@
     "string": "~1.8.0"
   },
   "bugs": {
-    "url": "https://github.com/paulomcnally/node-tuc/issues/new",
+    "url": "https://github.com/nodenica/node-tuc/issues/new",
     "email": "paulomcnally@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/paulomcnally/node-tuc.git"
+    "url": "git://github.com/nodenica/node-tuc.git"
   }
 }
