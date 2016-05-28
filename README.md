@@ -10,20 +10,23 @@
 
 # Example
 
-    var Tuc = require('tuc');
+    // require library
+    const Tuc = require('tuc');
 
-    var tuc = new Tuc();
+    // instance class
+    const tuc = new Tuc();
 
-    tuc.getBalance('00759795', function( balance ){
+    // set number
+    let number = '00758888';
 
-        console.log( balance );
-
+    // call method getBalance
+    tuc.getBalance(number, (balance) => {
+      console.log(balance);
     });
 
-    tuc.getType('00759795', function( type ){
-
-        console.log( type );
-
+    // call method getType
+    tuc.getType(number, (balance) => {
+      console.log(balance);
     });
 
 # Responses
@@ -36,5 +39,6 @@
 * [hosmelq](https://github.com/hosmelq)
 * [BruceLampson](https://github.com/BruceLampson)
 * [robe007](https://github.com/robe007)
+* [oscarmcm](https://github.com/oscarmcm)
 
 This is a unoficial client. For more info visit [https://mpeso.net/](https://mpeso.net/)
