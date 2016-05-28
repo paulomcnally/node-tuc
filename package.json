@@ -5,12 +5,12 @@
   "author": "Paulo McNally <paulomcnally@gmail.com>",
   "contributors": [
     {
-      "name" : "Hosmel Quintana",
-      "email" : "hosmelq@gmail.com"
+      "name": "Hosmel Quintana",
+      "email": "hosmelq@gmail.com"
     },
     {
-      "name" : "Oscar Cortez",
-      "email" : "om.cortez.2010@gmail.com"
+      "name": "Oscar Cortez",
+      "email": "om.cortez.2010@gmail.com"
     }
   ],
   "keywords": [
@@ -23,6 +23,7 @@
   },
   "main": "./index.js",
   "dependencies": {
+    "randomstring": "1.1.5",
     "request": "~2.34.0",
     "string": "~1.8.0"
   },

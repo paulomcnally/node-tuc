@@ -1,12 +1,16 @@
 // require library
-var Tuc = require('../lib/tuc');
+const Tuc = require('../lib/tuc');
+
 // instance class
-var tuc = new Tuc();
+const tuc = new Tuc();
+
 // set number
-var number = '00007564';
+let number = '00758888';
+
 // enable debug;
 tuc.setDebug(false);
+
 // call method getBalance
-tuc.getBalance(number, function(balance) {
+tuc.getBalance(number, (balance) => {
   console.log(balance);
 });
