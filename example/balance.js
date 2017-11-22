@@ -5,7 +5,7 @@ const Tuc = require('../lib/tuc');
 const tuc = new Tuc();
 
 // set number
-let number = '00758888';
+let number = '00759799';
 
 // call method getBalance
 tuc.getBalance(number, (balance) => {

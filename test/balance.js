@@ -13,16 +13,9 @@ describe('Tuc', () => {
       });
     });
 
-    it('INVALID_FORMAT', (done) => {
+    it('INVALID', (done) => {
       tuc.getBalance('', (response) => {
         assert.strictEqual(response.error.code, 100);
-        done();
-      });
-    });
-
-    it('INACTIVE', (done) => {
-      tuc.getBalance('00759795', (response) => {
-        assert.strictEqual(response.error.code, 104);
         done();
       });
     });
